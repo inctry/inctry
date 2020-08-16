@@ -1,6 +1,6 @@
 ### Hi there 👋
 ###
-🌱 I’m currently learning Javascript
+🌱 I’m currently learning Javascript and Vue.js
 
 <!--
 **inctry/inctry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
