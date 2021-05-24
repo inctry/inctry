@@ -1,8 +1,8 @@
 ### Hi there 👋
 ###
 🌱 
-I’m currently interested in Front-end.
-Now  Tencent Front-end Intern.
+I’m currently interested in Front-end. <br>
+Now  Tencent Front-end Intern.<br>
 Knowing a little about Vue and React.
 
 <!--
