@@ -1,6 +1,9 @@
 ### Hi there 👋
 ###
-🌱 I’m currently learning Javascript and Vue.js
+🌱 
+I’m currently interested in Front-end.
+Now  Tencent Front-end Intern.
+Knowing a little about Vue and React.
 
 <!--
 **inctry/inctry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
